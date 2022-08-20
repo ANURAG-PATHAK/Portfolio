@@ -22,7 +22,7 @@
 
 <div>
 <h2>Below are the some screenshots from the mobile website. </h2>
-<img src="https://github.com/ANURAG-PATHAK/Portfolio/blob/master/screenshots/Screenshot%202022-08-21%20at%202.17.37%20AM.png" width="32%" align="left">
-<img src="https://github.com/ANURAG-PATHAK/Portfolio/blob/master/screenshots/Screenshot%202022-08-21%20at%202.17.48%20AM.png" width="32%">
-<img src="https://github.com/ANURAG-PATHAK/Portfolio/blob/master/screenshots/Screenshot%202022-08-21%20at%202.17.54%20AM.png" width="32%" align="right">
+<img src="https://github.com/ANURAG-PATHAK/Portfolio/blob/master/screenshots/Screenshot%202022-08-21%20at%202.17.37%20AM.png" width="30%" align="left">
+<img src="https://github.com/ANURAG-PATHAK/Portfolio/blob/master/screenshots/Screenshot%202022-08-21%20at%202.17.48%20AM.png" width="30%" >
+<img src="https://github.com/ANURAG-PATHAK/Portfolio/blob/master/screenshots/Screenshot%202022-08-21%20at%202.17.54%20AM.png" width="30%" >
 </div>
