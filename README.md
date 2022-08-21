@@ -15,7 +15,7 @@
 <div>
 <h2> Below are the some screenshots from the  desktop website. </h2>
 <img src="https://github.com/ANURAG-PATHAK/Portfolio/blob/master/screenshots/Screenshot%202022-08-21%20at%202.16.27%20AM.png" width="48%" align="left">
-<img src="https://github.com/ANURAG-PATHAK/Portfolio/blob/master/screenshots/Screenshot%202022-08-21%20at%202.16.33%20AM.png" width="48%">
+<img src="https://github.com/ANURAG-PATHAK/Portfolio/blob/master/screenshots/Screenshot%202022-08-21%20at%205.39.16%20AM.png" width="48%">
 <br>
 <br>
 </div>
