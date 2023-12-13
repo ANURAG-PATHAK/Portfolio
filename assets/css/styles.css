@@ -579,9 +579,9 @@ img {
 }
 
 /*==================== QUALIFICATION ====================*/
-#work{
+/* #work{
   display: none;
-}
+} */
 .qualification__tabs {
   display: flex;
   justify-content: space-evenly;
